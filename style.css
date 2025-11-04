@@ -1,0 +1,39 @@
+select {
+	font-family: Arial;
+	background-color: aqua;
+	color:floralwhite;
+	border: 2px solid blue;
+	width: 20%;
+	margin: 10px;
+}
+
+label {
+	font-family: Arial;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: large;
+	font-family: Arial;
+}
+
+body {
+	align-content: center;
+	background-color: aquamarine;
+	margin-top: 50px;
+}
+
+input {
+	background-color: aqua;
+	border: 2px solid blue;
+	color:floralwhite;
+	width: 20%;
+	margin: 10px;
+}
+
+
+
+
+
+
+
